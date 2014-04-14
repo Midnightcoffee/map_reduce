@@ -1,0 +1,25 @@
+Brasil 	49.0
+Canada 	2.0
+Chile 	4.0
+Colombia 	1.0
+Egypt 	1.0
+Finland 	1.0
+France 	18.0
+Indonesia 	61.0
+Italia 	4.0
+Italy 	2.0
+Kosovo 	1.0
+Latvia 	1.0
+Malaysia 	13.0
+Mexico 	3.0
+Nederland 	5.0
+Noruega 	1.0
+Poland 	1.0
+Polska 	1.0
+Portugal 	2.0
+Russia 	1.0
+Sverige 	1.0
+Turkey 	1.0
+Ukraine 	1.0
+United Kingdom 	21.0
+United States 	100.0
