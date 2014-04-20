@@ -10,8 +10,8 @@ for line in sys.stdin:
     if len(data_mapped) != 2:
         continue
 
-    # thisKey, count = data_mapped
     thisKey, hash_tags = data_mapped
+    # cleaning
     hash_tags = set(hash_tags.strip().replace('(', '').replace(')','').split(','))
     hash_tags = {h for h in hash_tags if h} # possible blank causes by one tuple
 

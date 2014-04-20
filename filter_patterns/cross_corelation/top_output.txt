@@ -1,0 +1,1 @@
+(196229648, 2155242431) 	(8, set([" 'elections'", " '11millions'", " 'enoughisenough'", " 'timeisnow'", " 'shutdownthegop'", " 'cir'", "'cir'", "'dignity'"]))
